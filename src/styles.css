@@ -38,6 +38,8 @@ header {
 }
 .sprite {
   margin-top: 100px;
+  display: flex;
+  justify-content: space-around;
 }
 .fsReducer.sprite a {
   font-size: 20px;
